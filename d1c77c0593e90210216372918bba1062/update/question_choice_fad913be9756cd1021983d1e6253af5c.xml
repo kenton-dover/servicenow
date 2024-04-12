@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Choose the colour">0539db3e9756cd1021983d1e6253af82</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 20:59:44</sys_created_on>
+        <sys_id>fad913be9756cd1021983d1e6253af5c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Just Black</sys_name>
+        <sys_package display_value="Service Catalog core applications" source="com.glideapp.servicecatalog">9c9ec42cd9b13110cedf7dffddb48f45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global customizations">d1c77c0593e90210216372918bba1062</sys_scope>
+        <sys_update_name>question_choice_fad913be9756cd1021983d1e6253af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 01:48:29</sys_updated_on>
+        <text>Just Black</text>
+        <value>black</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=fad913be9756cd1021983d1e6253af5c"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Global customizations">d1c77c0593e90210216372918bba1062</claim_owner_scope>
+        <claim_timestamp>18ecffdf1440000001</claim_timestamp>
+        <metadata_update_name>question_choice_fad913be9756cd1021983d1e6253af5c</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Global customizations</previous_claim_name>
+        <previous_claim_scope>d1c77c0593e90210216372918bba1062</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 01:48:29</sys_created_on>
+        <sys_id>289749c5932d0210216372918bba1002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 01:48:29</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Global customizations">d1c77c0593e90210216372918bba1062</claim_owner_scope>
+        <claim_timestamp>18ecffdf1430000001</claim_timestamp>
+        <metadata_update_name>question_choice_fad913be9756cd1021983d1e6253af5c</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.glideapp.servicecatalog</previous_claim_name>
+        <previous_claim_scope>com.glideapp.servicecatalog</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 01:48:29</sys_created_on>
+        <sys_id>e89749c5932d0210216372918bba1002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 01:48:29</sys_updated_on>
+    </sys_claim>
+</record_update>
